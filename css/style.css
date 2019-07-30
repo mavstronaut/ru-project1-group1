@@ -1,0 +1,101 @@
+body {
+    background-image: 
+    linear-gradient(to right ,#cb2d3e , #1c26b9);
+}
+a {
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    padding: 3px;
+    border-radius: 20px 0px 20px 0px;   
+}
+
+.title {
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 80px;
+    text-shadow: 5px 5px 5px black;
+}
+
+.contain {
+    margin-top: 50px;
+    text-align: center;
+}
+/* .canv {
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 1px 1px 1px black:
+} */
+.crdheader {
+    font-family: 'Mountains of Christmas', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    color: aliceblue;
+    text-shadow: 1px 1px 2px black;
+}
+.cardstyle {
+    border: 1px solid darkred;
+    border-radius: 5px 5px 15px 5px;
+    height: 210px;
+    box-shadow: 5px 5px 10px black;
+}
+.searchstyle {
+    border: 1px solid darkred;
+    text-transform: uppercase;
+}
+.bttn {
+    width: 200px;
+    border: 1px solid darkred;
+}
+
+.bttn:hover {
+    width: 200px;
+    background-color: blue;
+    border: 1px solid darkred;
+    transition: 1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+}
+.results {
+    width: 300px;
+    height: 250px;
+}
+.brake {
+    margin-top: 200px;
+}
+
+.gifimages {
+    text-align: center;
+
+}
+.editor {
+    padding: 0px 0px 0px 0px;
+    max-width: 450px;
+    max-height: 450px;
+    height: 450px;
+    width: 450px;
+    border-radius: 15px 0px 15px 0px;
+}
+#imageCanvas {
+    padding: 0px 0px 0px 0px;
+    max-width: 450px;
+    max-height: 450px;
+    height: 450px;
+    width: 450px;
+    border-radius: 15px 0px 15px 0px;
+}
+.searchBox {
+    
+}
